@@ -37,5 +37,6 @@ def plotar_fractal(tamanho_fractal, niveis_fractal):
 
         turtle.rt(angulo_de_divisão_fractal)
         turtle.fd(-tamanho_fractal)
+        turtle.done()
 
 plotar_fractal(80, 7)
