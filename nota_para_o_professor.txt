@@ -1,3 +1,0 @@
-Fiz algumas pequenas alterações nos programas para deixá-los mais 
-interessantes e me divertir no processo, aprendendo algumas funções a 
-mais do Turtle.
